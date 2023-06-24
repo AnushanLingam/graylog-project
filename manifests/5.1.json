@@ -10,6 +10,12 @@
         },
         {
           "path": "graylog2-web-interface"
+        },
+        {
+          "path": "graylog-storage-elasticsearch7"
+        },
+        {
+          "path": "graylog-storage-opensearch2"
         }
       ]
     },
