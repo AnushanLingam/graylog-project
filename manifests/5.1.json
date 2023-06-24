@@ -24,11 +24,6 @@
       "assemblies": ["graylog"]
     },
     {
-      "repository": "git@github.com:Graylog2/graylog-plugin-threatintel.git",
-      "revision": "5.1",
-      "assemblies": ["graylog"]
-    },
-    {
       "repository": "git@github.com:Graylog2/graylog-plugin-integrations.git",
       "revision": "5.1",
       "assemblies": ["graylog-integrations"]
